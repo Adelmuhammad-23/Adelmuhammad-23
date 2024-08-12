@@ -10,7 +10,6 @@
 - 👨‍🎓 I’m a Computer Science Student.
 - 👨🏻‍💻 I am a Back-End Engineer (.NET Core) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - 🌱 I’m currently learning   **T-SQL** , **Advanced C#** , **RESTful API** ,  **Javascript** , **ReactJS** ...
-- 👯 I’m looking to collaborate on open source projects
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 - 🤓 Always learning new things.
 - 💬 Ask me about **C#** , **.NET Framework** , **Web development**
