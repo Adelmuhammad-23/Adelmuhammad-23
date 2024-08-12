@@ -2,9 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=1500&pause=700&color=FFBD2F&center=true&vCenter=true&random=false&width=400&height=100&lines=Hi+There+%F0%9F%91%8B; I'm+Adel+Mohamed+!" alt="Typing SVG" /></a>
 </h1>
 
-<div id="header" align="center">
-  
-</div>
 
 
 
