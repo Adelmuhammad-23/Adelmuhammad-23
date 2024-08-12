@@ -1,23 +1,22 @@
-
-
-<div class="tenor-gif-embed" data-postid="18657810" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/coding-gif-18657810">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-
-
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=1500&pause=700&color=FFBD2F&center=true&vCenter=true&random=false&width=400&height=100&lines=Hi+There+%F0%9F%91%8B;I'm+Adel+Mohamed+!" alt="Typing SVG" /></a>
+</h1>
 
  </h1>
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="300"/>
+    <iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p>
 </div>
+
+
+
 <div id="badges" align ="center"> 
-<a href="https://www.linkedin.com/in/hanane-ait-ben-yachou-04075b2a8">
+<a href="https://www.linkedin.com/in/adel-mohamed23">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
 </a> 
-<a href="https://github.com/HananeAitBenYachou"> 
+<a href="https://github.com/AdelMohamed23"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
 </a> 
-<a href="mailto:hananeaitbenyachou@gmail.com"> 
+<a href="mailto:adelmuhammad.r@gmail.com"> 
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a> 
 </div>
@@ -28,7 +27,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a .NET FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
+I am a .NET FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 - 🌱 I’m currently learning   **T-SQL** , **Advanced C#** , **RESTful API** ,  **Javascript** , **ReactJS** ...
   
 - 👯 I’m looking to collaborate on open source projects
