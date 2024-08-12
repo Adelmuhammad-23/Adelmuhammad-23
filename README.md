@@ -1,11 +1,11 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=1500&pause=700&color=FFBD2F&center=true&vCenter=true&random=false&width=400&height=100&lines=Hi+There+%F0%9F%91%8B;I'm+Adel+Mohamed+!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=1500&pause=700&color=FFBD2F&center=true&vCenter=true&random=false&width=400&height=100&lines=Hi+There+%F0%9F%91%8B; I'm+Adel+Mohamed+!" alt="Typing SVG" /></a>
 </h1>
 
- </h1>
 <div id="header" align="center">
-    <<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p>
+  <iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="100%" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
+
 
 
 
@@ -43,6 +43,7 @@ I am a .NET FullStack Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
 
+<iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p>
   
 </div>
 <div align="center">
