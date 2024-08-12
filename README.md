@@ -42,7 +42,8 @@ I am a .NET FullStack Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
-  <img src="https://media.giphy.com/media/VPnfM9bmR0ZaQo3qtK/giphy.gif" width="300" height="300"/>
+
+  
 </div>
 <div align="center">
  <img width="600px"src="https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,dotnet,git,vscode,visualstudio&perline=12"  />
