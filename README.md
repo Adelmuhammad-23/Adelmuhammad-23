@@ -43,9 +43,11 @@ I am a .NET FullStack Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
-
-<iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p>
   
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web-Development%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00DF67&vCenter=true&size=22"></a>
+</p> 
 </div>
 <div align="center">
  <img width="600px"src="https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,dotnet,git,vscode,visualstudio&perline=12"  />
