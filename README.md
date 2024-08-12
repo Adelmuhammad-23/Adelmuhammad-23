@@ -1,8 +1,12 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=1500&pause=700&color=FFBD2F&center=true&vCenter=true&random=false&width=400&height=100&lines=Hi+There+%F0%9F%91%8B; I'm+Adel+Mohamed+!" alt="Typing SVG" /></a>
-</h1>
+<h2> Hi, I'm Mahmou Shahin! 👋</h2>
 
-
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Flutter%20developer📱;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=2F81F7&vCenter=true&size=22"></a>
+</p> 
+<img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="340px" align="right" alt="Computer">
+<p
+ 
 
 
 
