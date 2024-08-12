@@ -6,6 +6,7 @@
 </p> 
 <img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="340px" align="right" alt="Computer">
 <p
+  
 - 👨‍🎓 I’m a graduate of Computer Science.
 - 👨🏻‍💻 I am a Back-End Developer (.NET Core) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - 🌱 I’m currently learning   **T-SQL** , **Advanced C#** , **RESTful API** ,  **Javascript** , **ReactJS** ...
