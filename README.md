@@ -43,11 +43,11 @@ I am a .NET FullStack Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
-  
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web-Development%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00DF67&vCenter=true&size=22"></a>
-</p> 
+
+  img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif?raw=true" >
+<h3 align="center">
+  <br>
+
 </div>
 <div align="center">
  <img width="600px"src="https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,dotnet,git,vscode,visualstudio&perline=12"  />
