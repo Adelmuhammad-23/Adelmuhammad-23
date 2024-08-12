@@ -15,7 +15,7 @@
 - 🤓 Always learning new things.
 - 💬 Ask me about **C#** , **.NET Framework** , **Web development**
 - 🤝 I’m looking to collaborate with other developers to build great stuff.
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adelmuhammad.r@gmail.com)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adelmuhammad.r@gmail.com).
 📄 Documenting the entire journey.
 
 <div align="center">
