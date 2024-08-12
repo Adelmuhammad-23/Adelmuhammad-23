@@ -7,39 +7,31 @@
 <img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="340px" align="right" alt="Computer">
 <p
  
+- 👨‍🎓 I’m a graduate of Computer Science.
 
+- 👨🏻‍💻 I am a Back-End Developer (.NET Core) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
-
-<div id="badges" align ="center"> 
-<a href="https://www.linkedin.com/in/adel-mohamed23">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
-</a> 
-<a href="https://github.com/AdelMohamed23"> 
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-</a> 
-<a href="mailto:adelmuhammad.r@gmail.com"> 
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a> 
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="" align="center"/>
-</div>
-
----
-
-### :technologist: About Me :
-I am a .NET FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 - 🌱 I’m currently learning   **T-SQL** , **Advanced C#** , **RESTful API** ,  **Javascript** , **ReactJS** ...
-  
+- 
 - 👯 I’m looking to collaborate on open source projects
   
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+  
+- 🤓 Always learning new things.
+
 - 💬 Ask me about **C#** , **.NET Framework** , **Web development**
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- 🤝 I’m looking to collaborate with other developers to build great stuff.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hananeaitbenyachou@gmail.com)
-  
----
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adelmuhammad.r@gmail.com)
+
+📄 Documenting the entire journey.
+
+🫡 Deep Code Way.
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <h3 align="center">
