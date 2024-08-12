@@ -6,25 +6,15 @@
 </p> 
 <img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="340px" align="right" alt="Computer">
 <p
- 
 - 👨‍🎓 I’m a graduate of Computer Science.
-
 - 👨🏻‍💻 I am a Back-End Developer (.NET Core) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
-
 - 🌱 I’m currently learning   **T-SQL** , **Advanced C#** , **RESTful API** ,  **Javascript** , **ReactJS** ...
-- 
 - 👯 I’m looking to collaborate on open source projects
-  
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
-  
 - 🤓 Always learning new things.
-
 - 💬 Ask me about **C#** , **.NET Framework** , **Web development**
-
 - 🤝 I’m looking to collaborate with other developers to build great stuff.
-
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adelmuhammad.r@gmail.com)
-
 📄 Documenting the entire journey.
 
 🫡 Deep Code Way.
