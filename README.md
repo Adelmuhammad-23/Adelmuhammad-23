@@ -27,7 +27,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :technologist: About Me :
 I am a .NET FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 - 🌱 I’m currently learning   **T-SQL** , **Advanced C#** , **RESTful API** ,  **Javascript** , **ReactJS** ...
   
