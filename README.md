@@ -43,7 +43,7 @@ I am a .NET FullStack Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :hammer_and_wrench: Languages and Tools :
 
-
+img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="340px" align="right" alt="Computer">
 
 
 <h3 align="center">
