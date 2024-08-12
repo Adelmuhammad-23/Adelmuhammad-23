@@ -1,4 +1,4 @@
-<h2> Hi, I'm Adel Mohamed! 👋</h2>
+<h2> Hi, I'm Adel Muhammad! 👋</h2>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -15,12 +15,15 @@
 - 🤓 Always learning new things.
 - 💬 Ask me about **C#** , **.NET Framework** , **Web development**
 - 🤝 I’m looking to collaborate with other developers to build great stuff.
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adelmuhammad.r@gmail.com).
 - 📄 Documenting the entire journey.
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
+
+### Connect with Me :
+<a href="https://www.linkedin.com/in/adel-mohamed23" target="_blank"><img src="https://img.shields.io/badge/-Adel%20Muhammad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:eslamshaban060@gmail.com)](mailto:adelmuhammad.r@gmail.com)
 
 
 ### :hammer_and_wrench: Languages and Tools :
