@@ -42,8 +42,8 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HananeAitBenYachou&theme=algolia&border_radius=4.6)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HananeAitBenYachou&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdelMuhammad-23&theme=algolia&border_radius=4.6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdelMuhammad-23&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
