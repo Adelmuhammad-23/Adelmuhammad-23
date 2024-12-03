@@ -43,27 +43,29 @@
 
 ## 🔥 GitHub Stats
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/AdelMuhammad-23">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdelMuhammad-23&show_icons=true&theme=algolia" alt="Adel's GitHub Stats" height="165" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdelMuhammad-23&show_icons=true&theme=radical&hide_title=true&border_radius=20" />
   </a>
   <a href="https://github.com/AdelMuhammad-23">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AdelMuhammad-23&theme=algolia&border_radius=4.6" alt="Adel's GitHub Streak" height="165" />
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=AdelMuhammad-23&theme=radical&border_radius=20" />
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/AdelMuhammad-23">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdelMuhammad-23&layout=compact&theme=algolia" alt="Adel's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdelMuhammad-23&layout=compact&theme=radical&hide_title=true&border_radius=20" />
   </a>
-</p>
+</div>
 
 ---
 
-✨ **"Developing today, dreaming of tomorrow!"**
-
+✨ **"Code like a poet, deploy like a king!"**
 
 ---
 
-### 🏆 My Trophies :
-![](https://github-profile-trophy.vercel.app/?username=AdelMuhammad-23&theme=algolia&no-frame=false&no-bg=true&margin-w=4&column=-1)
+## 🏆 My Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdelMuhammad-23&theme=radical&no-frame=false&no-bg=true&margin-w=6&column=5&row=1" alt="Trophies" />
+</div>
