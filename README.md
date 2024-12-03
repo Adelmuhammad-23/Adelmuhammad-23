@@ -41,11 +41,26 @@
 
 ---
 
-### :fire: My Stats :
-![Adel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdelMuhammad-23&show_icons=true&theme=algolia)
-![Adel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdelMuhammad-23&theme=algolia&border_radius=4.6)
-![Adel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdelMuhammad-23&layout=compact&theme=algolia)
+## 🔥 GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/AdelMuhammad-23">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdelMuhammad-23&show_icons=true&theme=algolia" alt="Adel's GitHub Stats" height="165" />
+  </a>
+  <a href="https://github.com/AdelMuhammad-23">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AdelMuhammad-23&theme=algolia&border_radius=4.6" alt="Adel's GitHub Streak" height="165" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AdelMuhammad-23">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdelMuhammad-23&layout=compact&theme=algolia" alt="Adel's Top Languages" />
+  </a>
+</p>
+
+---
+
+✨ **"Developing today, dreaming of tomorrow!"**
 
 
 ---
