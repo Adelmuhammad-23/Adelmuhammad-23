@@ -1,31 +1,25 @@
-<h2 align="center"> Hi, I'm Adel Muhammad! 👋</h2>
 
-<!-- Typing SVG by DenverCoder1 -->
+<h2> Hi, I'm Adel Muhammad! 👋</h2>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Back-End%20Developer👨🏻‍💻;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=2F81F7&vCenter=true&size=22">
-  </a>
-</p>
-
-<div align="right">
-  <img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="340px" alt="Computer">
-</div>
-
-<p align="center">
-  - 👨‍🎓 I’m a Computer Science Student.<br>
-  - 👨🏻‍💻 I am a Back-End Engineer (.NET Core) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-  - 🌱 Currently learning **T-SQL**, **Advanced C#**, **RESTful API**, **Javascript**, **ReactJS**.<br>
-  - :zap: In my free time, I solve problems on Leetcode and read tech articles.<br>
-  - 🤓 Always learning new things.<br>
-  - 💬 Ask me about **C#**, **.NET Framework**, **Web development**.<br>
-  - 🤝 I’m looking to collaborate with other developers to build great stuff.<br>
-  - 📄 Documenting my journey!
-</p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Back-End%20Developer👨🏻‍💻;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=2F81F7&vCenter=true&size=22"></a>
+</p> 
+<img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="340px" align="right" alt="Computer">
+<p
+  
+- 👨‍🎓 I’m a Computer Science Student.
+- 👨🏻‍💻 I am a Back-End Engineer (.NET Core) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+- 🌱 I’m currently learning   **T-SQL** , **Advanced C#** , **RESTful API** ,  **Javascript** , **ReactJS** ...
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- 🤓 Always learning new things.
+- 💬 Ask me about **C#** , **.NET Framework** , **Web development**
+- 🤝 I’m looking to collaborate with other developers to build great stuff.
+- 📄 Documenting the entire journey.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-
 ---
 
 ### 📬 Connect with Me:
