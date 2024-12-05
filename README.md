@@ -22,11 +22,9 @@
 </div>
 ---
 
-
 ### Connect with Me :
 <a href="https://www.linkedin.com/in/adel-mohamed23" target="_blank"><img src="https://img.shields.io/badge/-Adel%20Muhammad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:eslamshaban060@gmail.com)](mailto:adelmuhammad.r@gmail.com)
-
 
 ---
 
