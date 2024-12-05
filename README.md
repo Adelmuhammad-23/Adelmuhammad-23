@@ -38,7 +38,6 @@
   <img width="600px" src="https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,dotnet,git,vscode,visualstudio&perline=12" />
 </p>
 
----
 
 ## 🔥 GitHub Stats
 
