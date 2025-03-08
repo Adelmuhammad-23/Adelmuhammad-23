@@ -97,20 +97,12 @@
 
 ## 🔥 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/AdelMuhammad-23">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdelMuhammad-23&show_icons=true&theme=radical&hide_title=true&border_radius=20" />
-  </a>
-  <a href="https://github.com/AdelMuhammad-23">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=AdelMuhammad-23&theme=radical&border_radius=20" />
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/AdelMuhammad-23">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdelMuhammad-23&layout=compact&theme=radical&hide_title=true&border_radius=20" />
-  </a>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedelazab1220&show_icons=true&locale=en&layout=compact" alt="Adelmuhammad-23" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adelmuhammad-23&show_icons=true&locale=en" alt="Adelmuhammad-23" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adelmuhammad-23&" alt="Adelmuhammad-23" /></p>
 
 ---
 
