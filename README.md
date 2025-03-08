@@ -30,9 +30,7 @@
   <a href="https://fb.com/adel.mu7ammad" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adel.mu7ammad" height="30" width="40" />
   </a>
-  <a href="mailto:adelmuhammad.r@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon.svg" alt="Gmail" height="30" width="40" />
-  </a>
+ 
 </p>
 
 
@@ -80,6 +78,10 @@
   <a href="https://postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
+
+  <a
+  <img width="600px" src="https://skillicons.dev/icons?i=dotnet" />
+ </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
