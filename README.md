@@ -31,7 +31,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adel.mu7ammad" height="30" width="40" />
   </a>
   <a href="mailto:adelmuhammad.r@gmail.com">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="adelmuhammad.r@gmail.com" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
