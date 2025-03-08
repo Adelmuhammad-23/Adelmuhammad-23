@@ -22,22 +22,6 @@
 </div>
 
 
-### Connect with Me :
-<a href="https://www.linkedin.com/in/adel-mohamed23" target="_blank"><img src="https://img.shields.io/badge/-Adel%20Muhammad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:eslamshaban060@gmail.com)](mailto:adelmuhammad.r@gmail.com)
-
----
-
-
-
-
-
-
-
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/adelmuhammad-23" target="blank">
@@ -101,49 +85,6 @@
   </a>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 🛠️ Languages and Tools:
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif?raw=true" width="300" />
-</p>
-
-<p align="center">
-  <img width="600px" src="https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,dotnet,git,vscode,visualstudio&perline=12" />
-</p>
 
 
 ## 🔥 GitHub Stats
