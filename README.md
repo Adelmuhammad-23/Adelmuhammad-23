@@ -80,7 +80,7 @@
   </a>
 
   <a
-  <img width="600px" src="https://skillicons.dev/icons?i=dotnet" />
+  <img width="600px" src="https://skillicons.dev/icons?i=dotnet&perline=12" />
  </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
