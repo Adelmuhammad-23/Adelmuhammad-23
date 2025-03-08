@@ -112,9 +112,9 @@
 
 ## 🏆 My Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdelMuhammad-23&theme=radical&no-frame=false&no-bg=true&margin-w=6&column=5&row=1" alt="Trophies" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adelmuhammad-23&label=Profile%20views&color=0e75b6&style=flat" alt="Adelmuhammad-23" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adelmuhammad-23" alt="Adelmuhammad-23" /></a> </p>
 
 ---
 
