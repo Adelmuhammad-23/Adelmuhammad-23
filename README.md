@@ -30,7 +30,10 @@
   <a href="https://fb.com/adel.mu7ammad" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adel.mu7ammad" height="30" width="40" />
   </a>
- 
+ <a href="mailto:adelmuhammad.r@gmail.com" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" />
+</a>
+
 </p>
 
 
