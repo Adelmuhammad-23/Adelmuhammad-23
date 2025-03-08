@@ -40,14 +40,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adelmuhammad-23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adelmuhammad-23" height="30" width="40" /></a>
-<a href="https://fb.com/adel.mu7ammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adel.mu7ammad" height="30" width="40" /></a>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:eslamshaban060@gmail.com)](mailto:adelmuhammad.r@gmail.com)
-
+  <a href="https://linkedin.com/in/adelmuhammad-23" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adelmuhammad-23" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/adel.mu7ammad" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adel.mu7ammad" height="30" width="40" />
+  </a>
+  <a href="mailto:adelmuhammad.r@gmail.com">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="adelmuhammad.r@gmail.com" height="30" width="40" />
+  </a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -93,7 +99,6 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
-</p>
 
 
 
