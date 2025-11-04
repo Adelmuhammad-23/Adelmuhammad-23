@@ -8,8 +8,7 @@
 <img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="340px" align="right" alt="Computer">
 <p
   
-- 👨‍🎓 I’m a Computer Science Student.
-- 👨🏻‍💻 I am a Back-End Engineer (.NET Core) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+- 👨🏻‍💻 I am a.NET Engineer at Electro Pi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - 🌱 I’m currently learning   **T-SQL** , **Advanced C#** , **RESTful API** ,  **Javascript** , **ReactJS** ...
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 - 🤓 Always learning new things.
